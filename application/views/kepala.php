@@ -27,13 +27,13 @@
                             <a class="nav-link" href="<?= base_url('scrm/cekresi'); ?>">BLOG </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?= base_url('scrm/service'); ?>">SIDE GUIDE </a>
+                            <a class="nav-link" href=" ">SIDE GUIDE </a>
                         </li>
                          <li class="nav-item">
                             <a class="nav-link" href="<?= base_url('scrm/login'); ?>">LOGIN </a>
                         </li>
                          <li class="nav-item">
-                            <a class="nav-link" href="<?= base_url('scrm/service'); ?>">CART </a>
+                            <a class="nav-link" href="">CART </a>
                         </li>
                     </ul>
                 </div>
